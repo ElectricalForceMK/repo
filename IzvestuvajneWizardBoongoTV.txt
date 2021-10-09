@@ -1,0 +1,15 @@
+5
+|||
+Slamious 19 updated to version 1.4!!! 
+This should fix a random issue where no addons will load. All addons and repos updated. Please Fresh Install!!!
+
+Current Build Versions:
+Slamious 19 - 1.4
+Xtasy.D - Debrid - 1.2
+Green Monster 19 - 1.6
+XontriX - 1.8
+XontriX Grey - 1.0
+
+Many thanks to Green Monster and Funsterbe for all their hard work. Slamious 19 wouldn't be possible without them. 
+
+Follow me on Twitter for news and updates @slamious.
