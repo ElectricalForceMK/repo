@@ -2,7 +2,7 @@
 <addons>
 
 
-<addon id="plugin.program.BoongoTV.Wizard" name="[COLOR mediumblue]BoongoTV[/COLOR] [COLOR red]Wizard[/COLOR]" version="1.0.5" provider-name="[COLOR gold]ElectricalForce[/COLOR]">
+<addon id="plugin.program.BoongoTV.Wizard" name="[COLOR mediumblue][B]BoongoTV[/B][/COLOR] [COLOR red][B]Wizard[/B][/COLOR]" version="1.0.5" provider-name="[COLOR gold]ElectricalForce[/COLOR]">
   <requires>
         <import addon="xbmc.python" version="3.0.0"/>
         <import addon="script.module.six" />
