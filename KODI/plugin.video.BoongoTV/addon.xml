@@ -2,7 +2,7 @@
 <addon id="plugin.video.BoongoTV"
        name="[COLOR mediumblue][B]BoongoTV[/B][/COLOR] [COLOR red][B]Movie & TV Show[/B][/COLOR]"
        version="1.0.5ee"
-       provider-name="[COLOR red]ElectricalForce[/COLOR]">
+       provider-name="[COLOR gold][B]ElectricalForce[/B][/COLOR]">
 <requires>
     <import addon="xbmc.python" version="3.0.0"/>
     <import addon="script.module.requests"/>
@@ -13,7 +13,7 @@
 	<provides>video</provides>
 </extension>   
 <extension point="xbmc.addon.metadata">
-	 <summary lang="hr">[COLOR mediumblue][B]BoongoTV[/B][/COLOR] [COLOR red][B]Movie & TV Show[/B][/COLOR]</summary>
+	 <summary lang="hr">[COLOR mediumblue][B]BoongoTV[/B][/COLOR] [COLOR red][B]Movie & TV Show[/COLOR]</summary>
     <description lang="hr">[COLOR gold]The Future Of Home Entertainment[/COLOR][CR]Kodi Repository for [COLOR steelblue]BoongoTV[/COLOR][CR][COLOR gold][B]ElectricalForce[/B][/COLOR] [COLOR white]Repo[/COLOR] allows you to install the BoongoTV WIZARD where you can get access to the latest BoongoTV Custom Builds and more.</description>
     <disclaimer lang="en"></disclaimer>
 	<platform>all</platform>
