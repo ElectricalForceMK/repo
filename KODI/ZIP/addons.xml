@@ -249,7 +249,7 @@ Add-on originally by doko.
 	</extension>
 </addon>
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.program.BoongoTV.Wizard" name="[COLOR mediumblue][B]BoongoTV[/COLOR] [COLOR red][B]Wizard[/COLOR]" version="0.0.2" provider-name="[COLOR gold][B]ElectricalForce[/B][/COLOR]">
+<addon id="plugin.program.BoongoTV.Wizard" name="[COLOR mediumblue][B]BoongoTV[/B][/COLOR] [COLOR red][B]Wizard[/B][/COLOR]" version="0.0.2" provider-name="[COLOR gold][B]ElectricalForce[/B][/COLOR]">
 	<requires>
 		<import addon="xbmc.python" version="3.0.0"/>
 		<import addon="script.module.requests" optional="true" />
