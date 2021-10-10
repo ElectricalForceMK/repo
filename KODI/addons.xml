@@ -648,6 +648,42 @@
 </extension>
 </addon>
 
+<addon id="plugin.video.BoongoTV.Movie" version="1.0.5ef" name="[COLOR mediumblue][B]BoongoTV[/B][/COLOR] [COLOR red][B]Movie & TV Show[/B][/COLOR]" provider-name="[COLOR gold][B]ElectricalForce[/B][/COLOR]">
+    <requires>
+        <!--<import addon="xbmc.python" version="2.25.0" />-->
+        <import addon="script.module.thecrew" />
+        <import addon="script.thecrew.artwork" />
+        <import addon="script.thecrew.metadata" />
+        <import addon="script.module.requests" />
+        <import addon="script.module.resolveurl" />
+        <import addon="script.module.simplejson" />
+        <import addon="script.module.requests" />
+        <import addon="script.module.beautifulsoup4" />
+        <import addon="script.module.six" />
+        <import addon="script.module.kodi-six" />
+        <import addon="plugin.video.youtube" optional="true" />
+        <import addon="script.module.inputstreamhelper" version="0.3.3"/>
+    </requires>
+    <extension library="thecrew.py" point="xbmc.python.pluginsource">
+        <provides>video</provides>
+    </extension>
+    <extension library="service.py" point="xbmc.service" start="startup" />
+    <extension point="xbmc.addon.metadata">
+        <summary lang="en">[COLOR mediumblue][B]BoongoTV[/B][/COLOR] [COLOR red][B]Movie & TV Show[/COLOR]</summary>
+        <description lang="en">[COLOR gold]The Future Of Home Entertainment[/COLOR][CR]Kodi Repository for [COLOR steelblue]BoongoTV[/COLOR][CR][COLOR gold][B]ElectricalForce[/B][/COLOR] [COLOR white]Repo[/COLOR] allows you to install the BoongoTV WIZARD where you can get access to the latest BoongoTV Custom Builds and more.</description>
+        <platform>all</platform>
+        <license></license>
+        <disclaimer lang="en"></disclaimer>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+            <screenshot>resources/art/ss/1.png</screenshot>
+            <screenshot>resources/art/ss/2.png</screenshot>
+            <screenshot>resources/art/ss/3.png</screenshot>
+        </assets>
+    </extension>
+</addon>
+
 <addon id="script.thecrew.artwork" version="1.0.0" name="[COLOR orchid]THE CREW ARTWORK[/COLOR]" provider-name="The Crew">
     <requires>
         <!--<import addon="xbmc.python" version="2.25.0" />-->
