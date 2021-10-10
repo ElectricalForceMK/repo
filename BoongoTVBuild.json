@@ -1,14 +1,38 @@
 {
 	"builds": [
-		{
-			"name": "BoongoTV 19",
+    {
+			"name": "Slamious 19",
 			"version": "1.1",
-			"url": "https://archive.org/download/boongo-tv-build-test-1/BoongoTV-Build-Test1.zip",
-			"icon": "https://raw.githubusercontent.com/ElectricalForceMK/Svasta/master/icon.png",
-			"fanart": "https://raw.githubusercontent.com/ElectricalForceMK/Svasta/master/fanart.jpg",
-			"preview": "",
-			"description": "BoongoTV by ElectricalForce"
+			"url": "http://slamiousproject.com/gmonster/Slam-19_v1.1.zip",
+			"icon": "http://slamiousproject.com/gmonster/Slam-19_icon.png",
+			"fanart": "http://slamiousproject.com/gmonster/Slam-19_fanart.jpg",
+      "preview": "http://slamiousproject.com/blds/Install.mp4", 
+      "description": "Slamious 19"
 		},
-		
+		{
+			"name": "Slamious 19 - Touch Edition",
+			"version": "1.1",
+			"url": "http://slamiousproject.com/blds/Slam19_Touch_v1.2.zip",
+			"icon": "http://slamiousproject.com/gmonster/Slam-19_Touch_icon.png",
+			"fanart": "http://slamiousproject.com/gmonster/Slam-19_Touch_fanart.jpg",
+			"description": "Slamious 19"
+		},
+{
+			"name": "Xtasy.D - Debrid K-19",
+			"version": "1.1",
+			"url": "http://xtasy-d.co.uk/Xtasy%20D%20-%20Debrid%20K-19/Xtasy%20D%20-%20Debrid%20K-19.zip",
+			"icon": "http://xtasy-d.co.uk/Xtasy%20D%20-%20Debrid%20K-19/icon.png",
+			"fanart": "http://xtasy-d.co.uk/Xtasy%20D%20-%20Debrid%20K-19/fanart.jpg",
+			"description": "REAL DEBRID ONE CLICK BUILD"
+		},
+    {
+    "name": "Iconic 19", 
+    "version": "2.0", 
+    "url": "http://funstersplace.net/Builds/iconic19.zip", 
+    "icon": "https://i.imgur.com/tj6U9xd.jpg",
+    "fanart": "https://i.imgur.com/tj6U9xd.jpg",
+    "description": "iconic 19"
+   }, 
+    
 	]
 }
