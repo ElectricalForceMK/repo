@@ -472,7 +472,7 @@
 </addon>
 
 <addon
-  id="pvr.boongotv-w64mat"
+  id="pvr.boongotv-armv7mat"
   version="0.0.5ee"
   name="[COLOR mediumblue][B]BoongoTV[/B][/COLOR] [COLOR red][B]Client[/B][/COLOR]"
   provider-name="[COLOR gold][B]ElectricalForce[/B][/COLOR]">
@@ -484,7 +484,7 @@
 <import addon="kodi.binary.instance.pvr" minversion="7.1.0" version="7.1.0"/></requires>
   <extension
     point="kodi.pvrclient"
-    library_windows="pvr.stalker.dll"/>
+    library_android="libpvr.stalker.so"/>
   <extension point="xbmc.addon.metadata">
     <summary lang="de_DE">PVR Client um Kodi mit BoongoTV Middleware zu verbinden</summary>
     <summary lang="en_GB">PVR Client to connect Kodi to BoongoTV Middleware</summary>
@@ -510,7 +510,7 @@
     <disclaimer lang="pt_PT">Este software é instável! Os autores não podem ser responsabilizados por gravações falhadas, temporizadores incorretos, horas desperdiçadas ou qualquer outro tipo de efeitos indesejáveis...</disclaimer>
     <disclaimer lang="it_IT">Questo software è instabile! Gli autori non sono in alcun modo responsabile per le fallite registrazioni, timer non corretti, ore perse o qualsiasi altro effetto non desiderato...</disclaimer>
     <disclaimer lang="ru_RU">Это тестовая программа! Авторы не несут ответственности за неудачные записи, неверные таймеры, потраченное время и прочие нежелательные эффекты..</disclaimer>
-    <platform>windows-x86_64</platform>
+    <platform>android-armv7</platform>
     <license>GPL-2.0-or-later</license>
 	<source></source>
     <forum></forum>
@@ -570,7 +570,7 @@
 </addon>
 
 <addon
-  id="pvr.boongotv-armv7mat"
+  id="pvr.boongotv-w64mat"
   version="0.0.5ee"
   name="[COLOR mediumblue][B]BoongoTV[/B][/COLOR] [COLOR red][B]Client[/B][/COLOR]"
   provider-name="[COLOR gold][B]ElectricalForce[/B][/COLOR]">
@@ -582,7 +582,7 @@
 <import addon="kodi.binary.instance.pvr" minversion="7.1.0" version="7.1.0"/></requires>
   <extension
     point="kodi.pvrclient"
-    library_android="libpvr.stalker.so"/>
+    library_windows="pvr.stalker.dll"/>
   <extension point="xbmc.addon.metadata">
     <summary lang="de_DE">PVR Client um Kodi mit BoongoTV Middleware zu verbinden</summary>
     <summary lang="en_GB">PVR Client to connect Kodi to BoongoTV Middleware</summary>
@@ -608,7 +608,7 @@
     <disclaimer lang="pt_PT">Este software é instável! Os autores não podem ser responsabilizados por gravações falhadas, temporizadores incorretos, horas desperdiçadas ou qualquer outro tipo de efeitos indesejáveis...</disclaimer>
     <disclaimer lang="it_IT">Questo software è instabile! Gli autori non sono in alcun modo responsabile per le fallite registrazioni, timer non corretti, ore perse o qualsiasi altro effetto non desiderato...</disclaimer>
     <disclaimer lang="ru_RU">Это тестовая программа! Авторы не несут ответственности за неудачные записи, неверные таймеры, потраченное время и прочие нежелательные эффекты..</disclaimer>
-    <platform>android-armv7</platform>
+    <platform>windows-x86_64</platform>
     <license>GPL-2.0-or-later</license>
 	<source></source>
     <forum></forum>
