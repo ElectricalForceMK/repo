@@ -9,7 +9,7 @@
 	</extension>
 	<extension point="xbmc.service" library="service.py" />
 	<extension point="xbmc.addon.metadata">
-		<summary lang="en_GB">[COLOR mediumblue][B]BoongoTV[/B][/COLOR] [COLOR red][B]Wizard[/B][/COLOR]</summary>
+		<summary lang="en_GB">[COLOR mediumblue][B]BoongoTV[/B][/COLOR] [COLOR red][B]Wizard[/COLOR]</summary>
 		<description lang="en_GB">[COLOR gold]The Future Of Home Entertainment[/COLOR][CR]Kodi Repository for [COLOR steelblue]BoongoTV[/COLOR][CR][COLOR gold][B]ElectricalForce[/B][/COLOR] [COLOR white]Repo[/COLOR] allows you to install the BoongoTV WIZARD where you can get access to the latest BoongoTV Custom Builds and more.</description>
 		<disclaimer lang="en_GB"></disclaimer>
 		<language>en</language>
