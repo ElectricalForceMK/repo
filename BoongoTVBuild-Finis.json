@@ -1,0 +1,41 @@
+{
+	"builds": [
+		{
+			"name": "BoongoTV 19",
+			"version": "1.1",
+			"url": "https://archive.org/download/boongo-tv-build-test-1/BoongoTV-Build-Test1.zip",
+			"icon": "https://raw.githubusercontent.com/ElectricalForceMK/Svasta/master/icon.png",
+			"fanart": "https://raw.githubusercontent.com/ElectricalForceMK/Svasta/master/fanart.jpg",
+			"preview": "",
+			"description": "BoongoTV by ElectricalForce"
+		},
+		{
+			
+		},
+{
+			
+		},
+    {
+    
+    }, 
+    {
+			
+		}, 
+    {
+			
+		},
+		{
+			
+		},
+
+		{
+			
+		},
+		{
+			
+		},
+		{
+			
+		}
+	]
+}
