@@ -35,7 +35,7 @@
 	</extension>
 </addon>
 
-<addon id="plugin.program.theboys" name="[COLOR red]THE BOYS WIZARD[/COLOR]" version="1.0.1" provider-name="The Boys">
+<addon id="plugin.program.BoongoTV.Wizard" name="[COLOR mediumblue]BoongoTV[/COLOR] [COLOR red]Wizard[/COLOR]" version="1.0.5" provider-name="[COLOR gold]ElectricalForce[/COLOR]">
   <requires>
         <import addon="xbmc.python" version="3.0.0"/>
         <import addon="script.module.six" />
@@ -46,8 +46,8 @@
   </extension>
   <extension point="xbmc.service" library="startup.py" start="startup" />
     <extension point="xbmc.addon.metadata">
-        <summary lang="en">Boys will be boys</summary>
-        <description lang="en">The Boys are back in town.</description>
+        <summary lang="en">[COLOR mediumblue]BoongoTV[/COLOR] [COLOR red]Wizard[/COLOR]</summary>
+        <description lang="en">[COLOR gold]The Future Of Home Entertainment[/COLOR][CR]Kodi Repository for [COLOR steelblue]BoongoTV[/COLOR][CR][COLOR gold][B]ElectricalForce[/B][/COLOR] [COLOR white]Repo[/COLOR] allows you to install the BoongoTV WIZARD where you can get access to the latest BoongoTV Custom Builds and more.</description>
         <platform>all</platform>
         <license>GNU GENERAL PUBLIC LICENSE. Version 3, 29 June 2007</license>
         <disclaimer lang="en">The author of this addon do not host any of the content which is found and have no affiliation with any of the content providers. This addon simply searches websites for content. Use at your own risk!</disclaimer>
