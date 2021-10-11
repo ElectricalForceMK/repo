@@ -510,6 +510,23 @@
   </extension>
 </addon>
 
+<addon id="script.BoongoTV.metadata" version="1.0.0" name="[COLOR mediumblue][B]BoongoTV[/B][/COLOR] [COLOR red][B]Metadata[/B][/COLOR]" provider-name="[COLOR gold][B]ElectricalForce[/B][/COLOR]">
+    <requires>
+        <!--<import addon="xbmc.python" version="2.25.0" />-->
+    </requires>
+    <extension point="xbmc.python.module" library="lib" />
+    <extension point="xbmc.addon.metadata">
+        <summary lang="en">[COLOR mediumblue][B]BoongoTV[/B][/COLOR] [COLOR red][B]Metadata[/COLOR]</summary>
+        <description lang="en">[COLOR gold]The Future Of Home Entertainment[/COLOR][CR]Kodi Repository for [COLOR steelblue]BoongoTV[/COLOR][CR][COLOR gold][B]ElectricalForce[/B][/COLOR] [COLOR white]Repo[/COLOR] allows you to install the BoongoTV WIZARD where you can get access to the latest BoongoTV Custom Builds and more.</description>
+        <platform>all</platform>
+        <license>GNU GENERAL PUBLIC LICENSE. Version 3, 29 June 2007</license>
+        <disclaimer lang="en">The author of this addon do not host any of the content which is found and have no affiliation with any of the content providers. This addon simply searches websites for content. Use at your own risk!</disclaimer>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
+    </extension>
+</addon>
 
 <addon
   id="pvr.boongotv-armv7mat"
