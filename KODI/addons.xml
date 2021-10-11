@@ -692,9 +692,9 @@
 <addon id="plugin.video.BoongoTV.Movie" version="1.0.5ef" name="[COLOR mediumblue][B]BoongoTV[/B][/COLOR] [COLOR red][B]Movie & TV Show[/B][/COLOR]" provider-name="[COLOR gold][B]ElectricalForce[/B][/COLOR]">
     <requires>
         <!--<import addon="xbmc.python" version="2.25.0" />-->
-        <import addon="script.module.thecrew" />
-        <import addon="script.thecrew.artwork" />
-        <import addon="script.thecrew.metadata" />
+        <import addon="script.module.BoongoTV" />
+        <import addon="script.BoongoTV.artwork" />
+        <import addon="script.BoongoTV.metadata" />
         <import addon="script.module.requests" />
         <import addon="script.module.resolveurl" />
         <import addon="script.module.simplejson" />
