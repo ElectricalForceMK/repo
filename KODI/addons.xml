@@ -143,14 +143,14 @@
 	</extension>
 </addon>
 
-<addon id="resource.uisounds.crew" version="1.0.1" name="[COLOR orchid]THE CREW SOUNDS[/COLOR]" provider-name="The Crew">
+<addon id="resource.uisounds.boongotv" version="1.0.1" name="[COLOR mediumblue][B]BoongoTV[/B][/COLOR] [COLOR red][B]Sounds[/B][/COLOR]" provider-name="[COLOR gold][B]ElectricalForce[/B][/COLOR]">
   <requires>
     <import addon="kodi.resource" version="1.0.0"/>
   </requires>
   <extension point="kodi.resource.uisounds"/>
   <extension point="kodi.addon.metadata">
-    <summary lang="en">The Crew Sounds</summary>
-    <description lang="en">The Crew Sounds</description>
+    <summary lang="en">[COLOR mediumblue][B]BoongoTV[/B][/COLOR] [COLOR red][B]Sounds[/COLOR]</summary>
+    <description lang="en">[COLOR gold]The Future Of Home Entertainment[/COLOR][CR]Kodi Repository for [COLOR steelblue]BoongoTV[/COLOR][CR][COLOR gold][B]ElectricalForce[/B][/COLOR] [COLOR white]Repo[/COLOR] allows you to install the BoongoTV WIZARD where you can get access to the latest BoongoTV Custom Builds and more.</description>
     <platform>all</platform>
   </extension>
 </addon>
